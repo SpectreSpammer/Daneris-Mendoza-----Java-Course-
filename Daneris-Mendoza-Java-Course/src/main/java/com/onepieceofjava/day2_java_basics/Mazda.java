@@ -5,4 +5,8 @@ public class Mazda implements Car{
     public void doors() {
         System.out.println("Miata nx5");
     }
+
+    public static void engine(){
+        System.out.println("vroom vroom");
+    }
 }

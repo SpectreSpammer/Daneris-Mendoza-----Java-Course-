@@ -10,5 +10,8 @@ public class MainJavaBasics {
 
         Car miata = new Mazda();
         miata.doors();
+
+        Mazda.engine();
+
     }
 }
